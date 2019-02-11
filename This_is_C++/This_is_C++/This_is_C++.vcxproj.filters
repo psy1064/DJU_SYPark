@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ReferenceType.cpp">
+    <ClCompile Include="Reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
