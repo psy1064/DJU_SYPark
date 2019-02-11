@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="func_template.cpp">
+    <ClCompile Include="namespace.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
