@@ -112,7 +112,7 @@ int main()
 
 	CTest5 e;
 	cout << e.m_Data << endl;
-
+	
 
 	delete pdata; // °´Ã¼ »èÁ¦
 
