@@ -18,5 +18,8 @@
     <ClCompile Include="auto_type_cast.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="conversion_constructor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

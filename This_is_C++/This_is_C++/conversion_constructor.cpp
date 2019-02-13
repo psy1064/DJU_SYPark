@@ -18,7 +18,7 @@ public:
 	void setData(int nParam) { m_nData = nParam; }
 };
 
-void TestFunc(CTestData param)
+void TestFunc(CTestData& param) // 클래스 형식을 매개변수로 사용 시 참조 형식 사용
 {
 	cout << "TestFunc() : " << param.getData() << endl;
 }
