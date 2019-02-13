@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="copy_constructor.cpp">
+    <ClCompile Include="function_copy_constructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
