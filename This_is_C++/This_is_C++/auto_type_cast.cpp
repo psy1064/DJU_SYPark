@@ -18,7 +18,8 @@ int main()
 	cout << a << endl;
 	cout << a.getData() << endl;
 	cout << (int)a << endl;
-	cout << static_cast<int>(a) << endl;
+	cout << static_cast<int>(a) << endl;	// C++ 에서 사용해야 할 형변환 연산
+											// 형 변환해도 되는것들만 변환함
 
 	return 0;
 }
