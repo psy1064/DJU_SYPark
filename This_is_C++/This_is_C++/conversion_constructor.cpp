@@ -26,6 +26,7 @@ void TestFunc(CTestData& param) // 클래스 형식을 매개변수로 사용 시 참조 형식 사
 int main()
 {
 	//TestFunc(5); // 컴파일러가 TestFunc(CTestData(5));로 변환해 코딩함
-	TestFunc(CTestData(5));
+	CTestData a(5);
+	TestFunc(a);
 	return 0;
 }
