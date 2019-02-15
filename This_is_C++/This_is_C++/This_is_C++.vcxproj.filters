@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="auto_type_cast.cpp">
+    <ClCompile Include="tempObject.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
